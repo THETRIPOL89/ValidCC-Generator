@@ -2,7 +2,6 @@
 Valid Credit Card-Generator
 
 ## Credit Card Generator
-#
 
 ### A lot of features:
 - Mastercard
